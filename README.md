@@ -38,4 +38,4 @@ Publish to a github repo
 ## Troubleshooting
 - Make sure that Zookeeper and Kafka Broker are active
 - Sometime errors are due tmp - clean it if it happes
-- 
+- Check if all topics are up and running
