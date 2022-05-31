@@ -1,5 +1,5 @@
 # Challenge #2: Kafka App
-NOTE FIXME: app does not contain scopt implementation. All arguments needs to be passed manually, or hardcoded.
+NOTE FIXME: app does not contain scopt implementation. All arguments needs to be passed manually, or hardcoded. Not enough time for tests - app tested manually.
 ## About the Project
 ```text
 Write a Kafka Streams application that does the following transformations:
