@@ -1,0 +1,6 @@
+/project/
+/.bsp/
+/.idea/
+/target/
+/project/target/
+/test.sc
